@@ -3,24 +3,24 @@ var getPosts = function() {
   var posts = [
     {
       id: 1,
-      title: 'Post 1',
-      image: 'post1.jpg',
-      description: 'Meu primeiro post',
-      body: 'Meu primeiro post bla blaa sdfa sdfas df asdf asdf asdf asdf'
+      title: 'Junglers',
+      image: 'lee1.png',
+      description: 'Junglers no meta atual',
+      body: 'Lee sin, Karthus, Reksai, Olaf, Sejuani, Skarner, Taliyah, Jarvan, Elise'
     },
     {
       id: 2,
-      title: 'Post 2',
-      image: 'post2.jpg',
-      description: 'Meu segundo post',
-      body: 'Meu segundo post bla bla asd f 2'
+      title: 'Mid',
+      image: 'azir1.png',
+      description: 'Mids atualmente viáveis',
+      body: 'Azir, Ahri, Cassiopeia, Vladimir, Orianna, Corki, Twisted Fate entre outros.'
     },
     {
       id: 3,
-      title: 'Sistema automatico de posts',
-      image: 'post2.jpg',
-      description: 'Novo sistema do meu blog',
-      body: 'Esse é o novo sistema do blog da Católica de SC'
+      title: 'Top',
+      image: 'camille1.png',
+      description: 'Tops do meta atual',
+      body: 'Aatrox, camille, Urgot, Irelia, Gnar, Rumble entre outros.'
     }
   ];
 
